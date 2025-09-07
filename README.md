@@ -1,4 +1,4 @@
-# California Housing Prediction
+
 
 This repo contains a Colab-ready Jupyter notebook and the `housing.csv` dataset for predicting California house prices.
 
